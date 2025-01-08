@@ -1,4 +1,4 @@
-![LiterAlura Banner](https://your-image-link.com/banner.png)
+![sofwareengineer-banner.png](img/sofwareengineer-banner.png)
 
 # Literatura - Catálogo de Libros 📚
 
