@@ -1,4 +1,4 @@
-![sofwareengineer-banner.png](img/sofwareengineer-banner.png)
+<img src="img/sofwareengineer-banner.png" alt="Literatura Banner" width="100%"/>
 
 # Literatura - Catálogo de Libros 📚
 
